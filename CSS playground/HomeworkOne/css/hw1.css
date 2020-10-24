@@ -1,0 +1,32 @@
+header{
+    background: #999999;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a{
+    color: #000000;
+    background: #BBBBBB;
+
+}
+
+.left{
+    display: none;
+}
+
+main{
+    background: #888888;
+}
+
+h2{
+    color: #0000ff;
+    text-transform: uppercase;
+}
+
+li a{
+    display: 
+}

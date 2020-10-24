@@ -1,0 +1,46 @@
+
+body{
+    background-color: #BBBBBB;
+    font-size: 150%;
+    margin: 4%;
+}
+
+header{
+    background: #666666;
+    text-align: center;
+}
+
+h1{
+    color: #ffffff
+}
+
+h2{
+    color: #ffffff;
+    background: #666666;
+
+}
+
+details{
+    font-style: italic;
+}
+
+summary{
+    font-style: normal;
+}
+
+section{
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    background: #666666
+}
+
+img{
+    width: 125px;
+}

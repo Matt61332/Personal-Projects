@@ -1,0 +1,23 @@
+@font-face{
+    font-family: mySpecialFont;
+    src: url('');
+}
+
+
+h1, span{
+    color:blue;
+    font-family: mySpecialFont;
+    text-align: center;
+}
+
+span.red{
+    color:red;
+}
+
+span.two{
+    line-height: 200%;
+}
+
+span.half{
+    line-height: 400%;
+}
